@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@narfexdex/sdk",
   "license": "MIT",
   "version": "2.4.3",
   "description": "🛠 An SDK for building applications on top of Pancakeswap.",
@@ -8,10 +8,12 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/narfex/pancake-swap-sdk.git",
   "keywords": [
     "pancakeswap",
-    "bsc"
+    "bsc",
+    "narfex",
+    "ether"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
