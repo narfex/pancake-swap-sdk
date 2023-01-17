@@ -1,11 +1,7 @@
 
-> **Notice**
->
-> Moved to https://github.com/pancakeswap/pancake-frontend/tree/develop/packages/swap-sdk
+# Narfex SDK
 
-# Pancakeswap SDK
-
-Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
+Forked from the [Pancake SDK](https://github.com/pancakeswap/pancake-swap-sdk/commit/38b00a59d8ff04bac61d0d12fa9b94af80808392).
 
 You can refer to the Uniswap SDK documentation [uniswap.org](https://docs.uniswap.org/sdk/2.0.0/).
 
@@ -16,13 +12,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/pancakeswap/pancake-swap-sdk.git
+git clone https://github.com/narfex/pancake-swap-sdk narfex-sdk
 ```
 
-Move into the pancakeswap-sdk working directory
+Move into the narfex-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd narfex-sdk/
 ```
 
 Install dependencies
